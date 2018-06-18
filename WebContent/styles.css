@@ -1,0 +1,22 @@
+body           { background-color: #72dac0; }
+.bold          { font-weight: bold; }
+.bigFont       { font-family: sans-serif;
+                 font-weight: bold;
+                 font-size: xx-large;
+                 color: #000000; }
+.smallFont       { font-family: helvetica;
+                 font-weight: normal;
+                 font-size: 8pt;
+                 color: #000000; }
+.italic        { font-style: italic; }
+.right         { text-align: right;
+				 padding-right:3.0em; }
+.center        { text-align: center; }
+.left          { text-align: left; }
+.indent		   { padding-left: 2.0em; }
+table, th, td  { border: 2px groove;
+                 padding: 5px; }
+table          { font-size:14pt;
+				 background-color: #dbeafd; 
+                 margin-left: auto;
+                 margin-right: auto; }
